@@ -74,4 +74,4 @@ It can be used by business stakeholders to quickly understand sales performance 
 
 ## 👤 Author
 
-**Prasann Bhorkar**ries.
+**Prasann Bhorkar**.
